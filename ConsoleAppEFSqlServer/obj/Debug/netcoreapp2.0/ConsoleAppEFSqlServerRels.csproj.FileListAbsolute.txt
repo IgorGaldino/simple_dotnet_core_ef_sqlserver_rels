@@ -1,0 +1,11 @@
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\EFCoreRelationShipsExample\ConsoleAppEFSqlServer\bin\Debug\netcoreapp2.0\ConsoleAppEFSqlServerRels.deps.json
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\EFCoreRelationShipsExample\ConsoleAppEFSqlServer\bin\Debug\netcoreapp2.0\ConsoleAppEFSqlServerRels.runtimeconfig.json
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\EFCoreRelationShipsExample\ConsoleAppEFSqlServer\bin\Debug\netcoreapp2.0\ConsoleAppEFSqlServerRels.runtimeconfig.dev.json
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\EFCoreRelationShipsExample\ConsoleAppEFSqlServer\bin\Debug\netcoreapp2.0\ConsoleAppEFSqlServerRels.dll
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\EFCoreRelationShipsExample\ConsoleAppEFSqlServer\bin\Debug\netcoreapp2.0\ConsoleAppEFSqlServerRels.pdb
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\EFCoreRelationShipsExample\ConsoleAppEFSqlServer\obj\Debug\netcoreapp2.0\ConsoleAppEFSqlServerRels.csprojResolveAssemblyReference.cache
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\EFCoreRelationShipsExample\ConsoleAppEFSqlServer\obj\Debug\netcoreapp2.0\ConsoleAppEFSqlServerRels.csproj.CoreCompileInputs.cache
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\EFCoreRelationShipsExample\ConsoleAppEFSqlServer\obj\Debug\netcoreapp2.0\ConsoleAppEFSqlServerRels.AssemblyInfoInputs.cache
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\EFCoreRelationShipsExample\ConsoleAppEFSqlServer\obj\Debug\netcoreapp2.0\ConsoleAppEFSqlServerRels.AssemblyInfo.cs
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\EFCoreRelationShipsExample\ConsoleAppEFSqlServer\obj\Debug\netcoreapp2.0\ConsoleAppEFSqlServerRels.dll
+E:\gdrive\H-References\H-References-Working\ENSINO\Semestres\2017.2\2017.2-LP2\2017-2-Prep-Aulas\EFCoreRelationShipsExample\ConsoleAppEFSqlServer\obj\Debug\netcoreapp2.0\ConsoleAppEFSqlServerRels.pdb
